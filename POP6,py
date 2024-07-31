@@ -1,0 +1,30 @@
+OUTPUT:
+Test case 1:
+Array: [1, 2, 3, 4, 5]
+Target: 3
+Result: 2
+
+Test case 2:
+Array: [1, 2, 3, 4, 5]
+Target: 0
+Result: None
+
+Test case 3:
+Array: [1, 2, 3, 4, 5]
+Target: 6
+Result: None
+
+Test case 4:
+Array: []
+Target: 3
+Result: None
+
+Test case 5:
+Array: [3]
+Target: 3
+Result: 0
+
+Test case 6:
+Array: [3]
+Target: 4
+Result: None
