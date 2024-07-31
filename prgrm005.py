@@ -19,5 +19,3 @@ def main():
  sales_amount = float(input("Enter the sales amount: $"))
   commission = calculate_commission(sales_amount)
  print(f"The commission earned is: ${commission:.2f}")
-if __name__ == "__main__":
- main()
